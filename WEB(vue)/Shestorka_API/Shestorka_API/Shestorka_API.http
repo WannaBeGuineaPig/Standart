@@ -1,0 +1,6 @@
+@Shestorka_API_HostAddress = http://localhost:5231
+
+GET {{Shestorka_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Shestorka_API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6FF2E2-0B55-4B1A-B129-0AB68358909E}|Shestorka_API\\Shestorka_API.csproj|c:\\users\\user\\source\\repos\\shestorka_api\\shestorka_api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6FF2E2-0B55-4B1A-B129-0AB68358909E}|Shestorka_API\\Shestorka_API.csproj|solutionrelative:shestorka_api\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A6FF2E2-0B55-4B1A-B129-0AB68358909E}|Shestorka_API\\Shestorka_API.csproj|c:\\users\\user\\source\\repos\\shestorka_api\\shestorka_api\\dto\\orderclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A6FF2E2-0B55-4B1A-B129-0AB68358909E}|Shestorka_API\\Shestorka_API.csproj|solutionrelative:shestorka_api\\dto\\orderclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderClass.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Shestorka_API\\Shestorka_API\\DTO\\OrderClass.cs",
+              "RelativeDocumentMoniker": "Shestorka_API\\DTO\\OrderClass.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Shestorka_API\\Shestorka_API\\DTO\\OrderClass.cs",
+              "RelativeToolTip": "Shestorka_API\\DTO\\OrderClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T15:27:36.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Shestorka_API\\Shestorka_API\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Shestorka_API\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Shestorka_API\\Shestorka_API\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Shestorka_API\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAB8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T15:26:56.417Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

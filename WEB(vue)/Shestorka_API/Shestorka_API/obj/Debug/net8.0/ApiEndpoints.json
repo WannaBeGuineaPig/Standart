@@ -1,0 +1,216 @@
+[
+  {
+    "ContainingType": "Shestorka_API.Controllers.EatController",
+    "Method": "AddEats",
+    "RelativePath": "add-eat",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newEat",
+        "Type": "Shestorka_API.DTO.EatClass",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Shestorka_API.Controllers.PickUpPointController",
+    "Method": "GetAddress",
+    "RelativePath": "address-pick-up-point",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Shestorka_API.Controllers.UserController",
+    "Method": "Authorization",
+    "RelativePath": "authorization",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "authUser",
+        "Type": "Shestorka_API.DTO.AuthorizationUser",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Shestorka_API.Controllers.CategoryController",
+    "Method": "GetCategory",
+    "RelativePath": "category",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Shestorka_API.Controllers.EatController",
+    "Method": "ChangeEats",
+    "RelativePath": "change-eat",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newEat",
+        "Type": "Shestorka_API.DTO.EatClass",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Shestorka_API.Controllers.EatController",
+    "Method": "DeleteEats",
+    "RelativePath": "delete-eat",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "articul",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Shestorka_API.Controllers.EatController",
+    "Method": "GetEatOrdering",
+    "RelativePath": "eat-ordering",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "articulItemOrdering",
+        "Type": "System.Collections.Generic.List\u00601[[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Shestorka_API.Controllers.EatController",
+    "Method": "GetEats",
+    "RelativePath": "eats",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "search",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "sorting",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "filtering",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Shestorka_API.Controllers.EatController",
+    "Method": "GetItemOnArticul",
+    "RelativePath": "item-on-articul",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "articul",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Shestorka_API.Controllers.ManafacturerController",
+    "Method": "GetManafacturer",
+    "RelativePath": "manafacturer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Shestorka_API.Controllers.OrderController",
+    "Method": "AddNewOrder",
+    "RelativePath": "new-order",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderClass",
+        "Type": "Shestorka_API.DTO.OrderClass",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Shestorka_API.Controllers.OrderController",
+    "Method": "GetOrders",
+    "RelativePath": "order",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idUser",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Shestorka_API.Controllers.SupplierController",
+    "Method": "GetSupplier",
+    "RelativePath": "supplier",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Shestorka_API.Controllers.TypeController",
+    "Method": "GetTypes",
+    "RelativePath": "type",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Shestorka_API.Controllers.UserController",
+    "Method": "GetUsers",
+    "RelativePath": "users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
